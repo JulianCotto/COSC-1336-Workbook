@@ -13,5 +13,5 @@ Go to the assignments folder next to get a homework that will require you to app
 Fill out homework in the "src"->"homeworks" file. Write Test cases for homework in "tests"->"homework". Run test cases from the run_tests.py file on the main page. 
 **Note that this repository will require you to use proper import statements to move relevant data between folders and perform proper testing** -> This process is covered in COSC-1336/01 Introduction to Python/Lectures/. There are 3 videos there that cover "Dev Process, Variables, Input, Unit Tests", "Python Overview, Tool, Unit Testing" & "Python Dev Process, Unit Tests, Variables, Input, Output"
 
-I hope oyu take as much from this course as I did!!
+I hope you take as much from this course as I did!!
 
